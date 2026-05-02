@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+
+title: >
+  AI Medical Digital Twins: Adaptive Filtering for Chiari
+  Pathophysiology Simulation and Analytical Modeling
+
+message: >
+  If you use this software or lab material for teaching or research,
+  please cite the archived Zenodo record.
+
+type: software
+
+authors:
+  - family-names: "dos Santos"
+    given-names: "Icaro"
+    affiliation: "Milwaukee School of Engineering"
+    orcid: "https://orcid.org/0000-
