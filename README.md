@@ -1,10 +1,8 @@
-# AI-Medical-Digital-Twins-Lab
-AI Medical Digital Twins: Adaptive Filtering for Chiari Pathophysiology – BME Control Systems Lab
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19926992.svg)](https://doi.org/10.5281/zenodo.19926992)
+
 # AI Medical Digital Twins: Adaptive Filtering for Chiari Pathophysiology
 
 **A complete 2-hour senior Biomedical Engineering Control Systems laboratory**
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19926992.svg)](https://doi.org/10.5281/zenodo.19926992)
 
 Students build a **patient-specific medical digital twin** from real anonymized cine-MRI, model the olivo-cerebellar circuit in Simulink (with realistic 50 ms neural delay), discover why biological feedback fails at 1 Hz cardiac pulsations, and then design an **LMS adaptive neural implant** that successfully cancels the disturbance.
 
@@ -38,10 +36,17 @@ If you do not have access to any cine-MRI data, you can use a **simple sine wave
 
 **License:** CC BY 4.0 — Feel free to use, adapt, and share with attribution.
 
+
+## Citation
+
+If you use this material for teaching or research, please cite the Zenodo record:
+
+dos Santos, I. (2026). *AI Medical Digital Twins: Adaptive Filtering for Chiari Pathophysiology Simulation and Analytical Modeling*. Zenodo. 
+
 **Zenodo DOI (citable version):** [https://doi.org/10.5281/zenodo.19926992](https://doi.org/10.5281/zenodo.19926992)
 
 ---
 
 Questions, feedback, or want to collaborate? Just open an Issue or reach out!
 
-Made with ❤️ for BME-4110 Control Systems at Milwaukee School of Engineering.
+Made for BME-4110 Control Systems at Milwaukee School of Engineering.
